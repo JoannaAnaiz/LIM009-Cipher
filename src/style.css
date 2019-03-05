@@ -1,1 +1,33 @@
+Result
+EDIT ON
+ .boton {
+  height: 20pt;
+  border: 1px solid #45EE99;
+  border-radius: 3px;
+  background: #45EE99;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  width: 100%;
+}
+
+.entrada {
+  height: 18pt;
+  border-radius: 2px;
+  width: 100%;
+}
+
+.salida {
+  height: 18pt;
+  border-radius: 2px;
+  border: 1px dotted black;
+  width: 100%;
+  margin-top: 4px;
+}
+
+.contenedor {
+  width: 30%;
+}
+
+
+
 /* Acá va tu código */
