@@ -1,9 +1,6 @@
 let encriptar = document.getElementById("encriptar");
 let desencriptar = document.getElementById("desencriptar");
-/*let desplazamiento = document.getElementById("desplazamiento").value;
-let entrada1 = document.getElementById("entrada1").value;
-let entrada2 = document.getElementById("entrada2").value;*/
-//let resultado = document.getElementById("resultado");
+
 
 
 encriptar.addEventListener('click', () =>{
