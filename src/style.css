@@ -1,26 +1,41 @@
-Result
-EDIT ON
+body {
+  background-image: url(image/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+#title {
+  font-size:50px;
+  color: red;
+  text-align: center;
+
+}
+
+.p {
+  text-align: center;
+}
+
  .boton {
-  height: 20pt;
-  border: 1px solid #45EE99;
+  height: 20px;
+  border: 2px solid #45EE99;
   border-radius: 3px;
   background: #45EE99;
   margin-top: 4px;
   margin-bottom: 4px;
-  width: 100%;
+  width: 10%;
 }
 
 .entrada {
   height: 18pt;
   border-radius: 2px;
-  width: 100%;
+  width: 25%;
 }
 
 .salida {
   height: 18pt;
   border-radius: 2px;
   border: 1px dotted black;
-  width: 100%;
+  width: 25%;
   margin-top: 4px;
 }
 
